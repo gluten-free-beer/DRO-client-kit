@@ -1,1 +1,1 @@
-# moffas
+# SDK for Dawn Resource Objects
