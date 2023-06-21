@@ -1,1 +1,1 @@
-# SDK for Dawn Resource Objects
+# SDK for DRO (Dawn Resource Object) Hosts
